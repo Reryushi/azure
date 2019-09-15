@@ -31,7 +31,7 @@
 	}
 	?>
 	<br/>
-	<br/>
+	<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 	<form method="post" action="cek_login.php">
 		<table align="center">
 			<tr>
